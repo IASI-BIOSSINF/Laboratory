@@ -1,0 +1,6 @@
+[submodule "Lab1-RPS"]
+	path = Lab1-RPS
+	url = https://github.com/andrei-radu/iasi-rps.git
+[submodule "Lab2-Emotion"]
+	path = Lab2-Emotion
+	url = https://github.com/Vladimirescu/iasi-emotion.git
