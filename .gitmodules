@@ -4,3 +4,6 @@
 [submodule "Lab2-Emotion"]
 	path = Lab2-Emotion
 	url = https://github.com/Vladimirescu/iasi-emotion.git
+[submodule "Lab3-KAN"]
+	path = Lab3-KAN
+	url = https://github.com/guzov-afk/iasi.git
