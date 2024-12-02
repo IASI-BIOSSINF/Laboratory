@@ -7,3 +7,6 @@
 [submodule "Lab3-KAN"]
 	path = Lab3-KAN
 	url = https://github.com/guzov-afk/iasi.git
+[submodule "Lab4-SpkRecog"]
+	path = Lab4-SpkRecog
+	url = https://github.com/gabitza-tech/iasi_lab_sr.git
