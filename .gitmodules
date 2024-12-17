@@ -10,3 +10,6 @@
 [submodule "Lab4-SpkRecog"]
 	path = Lab4-SpkRecog
 	url = https://github.com/gabitza-tech/iasi_lab_sr.git
+[submodule "Lab5-SpeechDenoising"]
+	path = Lab5-SpeechDenoising
+	url = https://github.com/marian-negru/IASI.git
