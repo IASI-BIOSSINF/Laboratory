@@ -14,5 +14,5 @@
 	path = Lab5-SpeechDenoising
 	url = https://github.com/marian-negru/IASI.git
 [submodule "Lab6-Chess"]
-  path = Lab6-Chess
-  url = https://gitlab.com/dan.curavale/jetson-chess-tutor
+	path = Lab6-Chess
+	url = https://gitlab.com/dan.curavale/jetson-chess-tutor
