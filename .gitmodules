@@ -13,3 +13,6 @@
 [submodule "Lab5-SpeechDenoising"]
 	path = Lab5-SpeechDenoising
 	url = https://github.com/marian-negru/IASI.git
+[submodule "Lab6-Chess"]
+	path = Lab6-Chess
+	url = https://github.com/Danzo08/Chess-digitization.git
